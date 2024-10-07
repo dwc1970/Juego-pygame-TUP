@@ -1,5 +1,5 @@
 import pygame
-import os
+import os  # proporciona funcionalidades para interactuar con el sistema
 from constantes import ASSETS_PATH
 
 class Personaje:
