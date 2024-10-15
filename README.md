@@ -3,4 +3,6 @@ Proyecto de juego utilizando la biblioteca Pygame para  la Tecnicatura en Progra
 
 En este repositorio se encuentran todos los recursos para el juego
 
-Los audios para repruducir en el juego
+Audios para repruducir en el juego.
+
+Imagenes de personajes, laser y fondo de pantalla.
