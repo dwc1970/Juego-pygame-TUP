@@ -8,3 +8,5 @@ Audios para repruducir en el juego.
 Imagenes de personajes, laser y fondo de pantalla.
 
 Todos los recursos se encuentran en la carpeta Assets 
+
+Carpeta Asstes aactualizada para personalizar el juego con otro personaje. 
