@@ -1,5 +1,5 @@
 # Juego-pygame-TUP
-Proyecto de juego utilizando la biblioteca Pygame para  la Tecnicatura en Programación  - 2024 -
+Proyecto de juego utilizando la biblioteca Pygame para  la Tecnicatura en Programación  - 2025 - (Reversionado)
 
 En este repositorio se encuentran todos los recursos para el juego
 
